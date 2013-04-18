@@ -1,0 +1,35 @@
+.menu
+{
+    border: 1px solid blue;
+    padding: 5px;
+    text-decoration: none;
+    color: blue;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+}
+
+.MainTable
+{
+    width: 900px;
+}
+.header
+{
+    overflow: hidden;
+}
+.LeftMenu
+{
+    overflow: hidden;
+    width: 100px;
+    padding: 20px;
+    vertical-align: top;
+
+}
+.menu:hover
+{
+    color: red;
+    background-color: lightblue;
+} 
+.textC
+{
+  color: red;  
+}
